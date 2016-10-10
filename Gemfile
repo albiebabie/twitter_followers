@@ -1,5 +1,6 @@
 source 'https://rubygems.org'
 
+gem 'puma'
 gem 'ruby'
 gem 'twitter'
 gem 'omniauth-twitter'
