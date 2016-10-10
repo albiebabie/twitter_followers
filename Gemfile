@@ -1,5 +1,7 @@
 source 'https://rubygems.org'
 
+gem 'ruby'
+gem 'twitter'
 gem 'omniauth-twitter'
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.2.7.1'
